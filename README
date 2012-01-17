@@ -1,0 +1,23 @@
++ You can find the implementation in 
+
+/home/duy/madwifi-maica/ath_rate/maica
+
++ Todo: clean up any unused functions
+
+
++ to compile
+make
+sudo make install
+
++ to select maica rate adaptation, you can add option "autocreate=adhoc" if desires adhoc scenario
+
+sudo modprobe ath_pci ratectl=maica
+
++ to remove it
+sudo rmmod ath_pci 
+sudo make uninstall
+
+
+
+
+

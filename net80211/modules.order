@@ -1,0 +1,8 @@
+kernel//home/duy/madwifi-maica/net80211/wlan.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_wep.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_tkip.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_ccmp.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_acl.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_xauth.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_scan_sta.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_scan_ap.ko

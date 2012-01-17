@@ -1,0 +1,15 @@
+kernel//home/duy/madwifi-maica/ath/ath_pci.ko
+kernel//home/duy/madwifi-maica/ath_hal/ath_hal.ko
+kernel//home/duy/madwifi-maica/ath_rate/amrr/ath_rate_amrr.ko
+kernel//home/duy/madwifi-maica/ath_rate/onoe/ath_rate_onoe.ko
+kernel//home/duy/madwifi-maica/ath_rate/sample/ath_rate_sample.ko
+kernel//home/duy/madwifi-maica/ath_rate/minstrel/ath_rate_minstrel.ko
+kernel//home/duy/madwifi-maica/ath_rate/maica/ath_rate_maica.ko
+kernel//home/duy/madwifi-maica/net80211/wlan.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_wep.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_tkip.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_ccmp.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_acl.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_xauth.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_scan_sta.ko
+kernel//home/duy/madwifi-maica/net80211/wlan_scan_ap.ko

@@ -1,0 +1,5 @@
+kernel//home/duy/madwifi-maica/ath_rate/amrr/ath_rate_amrr.ko
+kernel//home/duy/madwifi-maica/ath_rate/onoe/ath_rate_onoe.ko
+kernel//home/duy/madwifi-maica/ath_rate/sample/ath_rate_sample.ko
+kernel//home/duy/madwifi-maica/ath_rate/minstrel/ath_rate_minstrel.ko
+kernel//home/duy/madwifi-maica/ath_rate/maica/ath_rate_maica.ko
