@@ -493,7 +493,6 @@ ath_rate_tx_complete(struct ath_softc *sc,
 	tries = tries - tries2;
 	sn->rs_rateattempts[ndx3] += MIN(tries, tries3);	
 
-	check_rate(sc, &an->an_node);
 
 }
 
